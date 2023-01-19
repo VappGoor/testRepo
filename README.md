@@ -1,1 +1,1 @@
-https://VappGoor.github.io/gh-pages/
+https://vappgoor.github.io/gh-pages/cv
