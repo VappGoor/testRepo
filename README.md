@@ -1,1 +1,1 @@
-https://vappgoor.github.io/testRepo/
+https://vappgoor.github.io/testRepo/testRepo/
